@@ -13,5 +13,7 @@ public class OopIntroMain {
 
         System.out.println("Investigation is done!");
 
+
+        System.out.println("TEST");
     }
 }
